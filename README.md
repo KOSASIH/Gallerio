@@ -6,7 +6,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Gallerio)](https://github.com/KOSASIH/Gallerio/network)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Gallerio)](https://github.com/KOSASIH/Gallerio/stargazers)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Gallerio)](https://github.com/KOSASIH/Gallerio/blob/main/LICENSE)
-
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fmobile.twitter.com%2FKosasihg88G)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FKOSASIH%2FGallerio)
 
 
 # Gallerio
